@@ -125,6 +125,14 @@ Project findings and visualizations were professionally shared on LinkedIn as pa
 
 ---
 
+## Sample Visualizations
+
+### Boxplot Analysis
+![Boxplot](plot1_boxplot.png)
+
+### Time Series Analysis
+![Time Series](plot3_timeseries.png)
+
 ## Author
 
 Nethma Weerasinghe
